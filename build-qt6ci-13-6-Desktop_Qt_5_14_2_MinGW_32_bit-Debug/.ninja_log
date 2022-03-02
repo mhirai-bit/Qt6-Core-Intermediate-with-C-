@@ -1,0 +1,8 @@
+# ninja log v5
+1	290	0	CMakeFiles/qt6ci-13-6_autogen	492d8a9675717c14
+1	290	0	qt6ci-13-6_autogen/mocs_compilation.cpp	492d8a9675717c14
+1	290	0	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-13-6-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/CMakeFiles/qt6ci-13-6_autogen	492d8a9675717c14
+1	290	0	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-13-6-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/qt6ci-13-6_autogen/mocs_compilation.cpp	492d8a9675717c14
+298	592	6678389380129263	CMakeFiles/qt6ci-13-6.dir/qt6ci-13-6_autogen/mocs_compilation.cpp.obj	34ae4502837d9a58
+292	2413	6678389398466406	CMakeFiles/qt6ci-13-6.dir/main.cpp.obj	c2cc4e0b6582c940
+2427	3042	6678389404369192	qt6ci-13-6.exe	943f5279efcc91a8

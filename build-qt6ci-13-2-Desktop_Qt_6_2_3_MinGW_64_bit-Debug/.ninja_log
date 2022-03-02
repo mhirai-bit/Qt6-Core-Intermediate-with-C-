@@ -1,0 +1,20 @@
+# ninja log v5
+10	1709	6678368891359611	qt6ci-13-2_autogen/timestamp	82c79e4cea0bc1e0
+10	1709	6678368891359611	qt6ci-13-2_autogen/mocs_compilation.cpp	82c79e4cea0bc1e0
+10	1709	6678368891359611	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-13-2-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-13-2_autogen/timestamp	82c79e4cea0bc1e0
+10	1709	6678368891359611	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-13-2-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-13-2_autogen/mocs_compilation.cpp	82c79e4cea0bc1e0
+1714	2396	6678368904098791	CMakeFiles/qt6ci-13-2.dir/qt6ci-13-2_autogen/mocs_compilation.cpp.obj	7701b0c004715f47
+1730	12978	6678369009831735	CMakeFiles/qt6ci-13-2.dir/main.cpp.obj	d243bc915c8e1f14
+13004	14594	6678369024895143	qt6ci-13-2.exe	31da84d3706ca59
+72	982	6678369406563986	qt6ci-13-2_autogen/timestamp	82c79e4cea0bc1e0
+72	982	6678369406563986	qt6ci-13-2_autogen/mocs_compilation.cpp	82c79e4cea0bc1e0
+72	982	6678369406563986	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-13-2-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-13-2_autogen/timestamp	82c79e4cea0bc1e0
+72	982	6678369406563986	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-13-2-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-13-2_autogen/mocs_compilation.cpp	82c79e4cea0bc1e0
+1010	7391	6678369470664648	CMakeFiles/qt6ci-13-2.dir/main.cpp.obj	d243bc915c8e1f14
+7393	7777	6678369474634555	qt6ci-13-2.exe	31da84d3706ca59
+20	297	6678369653590699	qt6ci-13-2_autogen/timestamp	82c79e4cea0bc1e0
+20	297	6678369653590699	qt6ci-13-2_autogen/mocs_compilation.cpp	82c79e4cea0bc1e0
+20	297	6678369653590699	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-13-2-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-13-2_autogen/timestamp	82c79e4cea0bc1e0
+20	297	6678369653590699	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-13-2-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-13-2_autogen/mocs_compilation.cpp	82c79e4cea0bc1e0
+303	2870	6678369679319885	CMakeFiles/qt6ci-13-2.dir/main.cpp.obj	d243bc915c8e1f14
+2871	3220	6678369682747321	qt6ci-13-2.exe	31da84d3706ca59

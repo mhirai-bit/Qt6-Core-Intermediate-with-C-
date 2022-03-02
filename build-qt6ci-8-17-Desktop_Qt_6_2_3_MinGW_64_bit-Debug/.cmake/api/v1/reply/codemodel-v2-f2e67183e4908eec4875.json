@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qt6ci-8-17",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6ci-8-17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6ci-8-17-Debug-c738e7db649fcdb3b04f.json",
+					"name" : "qt6ci-8-17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6ci-8-17_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6ci-8-17_autogen-Debug-794e78c7e9b7f92a94e8.json",
+					"name" : "qt6ci-8-17_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6ci-8-17_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6ci-8-17_autogen_timestamp_deps-Debug-72b5d2d7ec16992988e2.json",
+					"name" : "qt6ci-8-17_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-8-17-Desktop_Qt_6_2_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/qt6ci-8-17"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

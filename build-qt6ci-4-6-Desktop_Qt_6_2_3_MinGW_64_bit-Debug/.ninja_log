@@ -1,0 +1,20 @@
+# ninja log v5
+2	560	6676631679338750	qt6ci-4-6_autogen/timestamp	1855765a99add2cc
+2	560	6676631679338750	qt6ci-4-6_autogen/mocs_compilation.cpp	1855765a99add2cc
+2	560	6676631679338750	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-4-6-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-4-6_autogen/timestamp	1855765a99add2cc
+2	560	6676631679338750	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-4-6-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-4-6_autogen/mocs_compilation.cpp	1855765a99add2cc
+562	828	6676631683766964	CMakeFiles/qt6ci-4-6.dir/qt6ci-4-6_autogen/mocs_compilation.cpp.obj	61177b81ef245e03
+568	4260	6676631718041160	CMakeFiles/qt6ci-4-6.dir/main.cpp.obj	1ebc49d086449c2
+4266	4690	6676631722168140	qt6ci-4-6.exe	a90d488592e930c
+93	1059	6676632013555866	qt6ci-4-6_autogen/timestamp	1855765a99add2cc
+93	1059	6676632013555866	qt6ci-4-6_autogen/mocs_compilation.cpp	1855765a99add2cc
+93	1059	6676632013555866	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-4-6-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-4-6_autogen/timestamp	1855765a99add2cc
+93	1059	6676632013555866	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-4-6-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-4-6_autogen/mocs_compilation.cpp	1855765a99add2cc
+1092	12122	6676632124294626	CMakeFiles/qt6ci-4-6.dir/main.cpp.obj	1ebc49d086449c2
+12124	12787	6676632130952264	qt6ci-4-6.exe	a90d488592e930c
+16	354	6676632717011677	qt6ci-4-6_autogen/timestamp	1855765a99add2cc
+16	354	6676632717011677	qt6ci-4-6_autogen/mocs_compilation.cpp	1855765a99add2cc
+16	354	6676632717011677	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-4-6-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-4-6_autogen/timestamp	1855765a99add2cc
+16	354	6676632717011677	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-4-6-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-4-6_autogen/mocs_compilation.cpp	1855765a99add2cc
+373	3820	6676632751641622	CMakeFiles/qt6ci-4-6.dir/main.cpp.obj	1ebc49d086449c2
+3827	4277	6676632756029856	qt6ci-4-6.exe	a90d488592e930c

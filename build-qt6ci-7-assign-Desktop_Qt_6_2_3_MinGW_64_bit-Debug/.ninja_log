@@ -1,0 +1,74 @@
+# ninja log v5
+3	793	6677244413143214	qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+3	793	6677244413143214	qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+3	793	6677244413143214	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+3	793	6677244413143214	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+808	1685	6677244424764826	CMakeFiles/qt6ci-7-assign.dir/qt6ci-7-assign_autogen/mocs_compilation.cpp.obj	3ca1b81d05a7e6d1
+797	4649	6677244454368953	CMakeFiles/qt6ci-7-assign.dir/main.cpp.obj	216f4a5205ee2442
+4658	5344	6677244461136336	qt6ci-7-assign.exe	ba12382de207ea05
+35	478	6677245016842217	qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+35	478	6677245016842217	qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+35	478	6677245016842217	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+35	478	6677245016842217	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+494	3996	6677245052135706	CMakeFiles/qt6ci-7-assign.dir/main.cpp.obj	216f4a5205ee2442
+3997	4490	6677245056998283	qt6ci-7-assign.exe	ba12382de207ea05
+15	391	6677246989290652	qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+15	391	6677246989290652	qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+15	391	6677246989290652	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+15	391	6677246989290652	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+402	3833	6677247023776862	CMakeFiles/qt6ci-7-assign.dir/main.cpp.obj	216f4a5205ee2442
+3835	4311	6677247028424230	qt6ci-7-assign.exe	ba12382de207ea05
+26	478	6677248404336707	qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+26	478	6677248404336707	qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+26	478	6677248404336707	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+26	478	6677248404336707	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+490	3905	6677248438714981	CMakeFiles/qt6ci-7-assign.dir/main.cpp.obj	216f4a5205ee2442
+3911	4431	6677248443826951	qt6ci-7-assign.exe	ba12382de207ea05
+23	369	6677249914624648	qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+23	369	6677249914624648	qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+23	369	6677249914624648	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+23	369	6677249914624648	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+382	3967	6677249950697350	CMakeFiles/qt6ci-7-assign.dir/main.cpp.obj	216f4a5205ee2442
+3973	4496	6677249955943290	qt6ci-7-assign.exe	ba12382de207ea05
+14	362	6677250919597008	qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+14	362	6677250919597008	qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+14	362	6677250919597008	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+14	362	6677250919597008	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+375	3696	6677250953093791	CMakeFiles/qt6ci-7-assign.dir/main.cpp.obj	216f4a5205ee2442
+3697	4196	6677250957871111	qt6ci-7-assign.exe	ba12382de207ea05
+24	353	6677252489786884	qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+24	353	6677252489786884	qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+24	353	6677252489786884	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+24	353	6677252489786884	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+362	3792	6677252524259680	CMakeFiles/qt6ci-7-assign.dir/main.cpp.obj	216f4a5205ee2442
+3793	4286	6677252529122148	qt6ci-7-assign.exe	ba12382de207ea05
+36	422	6677263282641818	qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+36	422	6677263282641818	qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+36	422	6677263282641818	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+36	422	6677263282641818	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+444	5059	6677263328858519	CMakeFiles/qt6ci-7-assign.dir/main.cpp.obj	216f4a5205ee2442
+5061	5831	6677263336535123	qt6ci-7-assign.exe	ba12382de207ea05
+14	328	6677263801386320	qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+14	328	6677263801386320	qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+14	328	6677263801386320	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+14	328	6677263801386320	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+336	3511	6677263833225880	CMakeFiles/qt6ci-7-assign.dir/main.cpp.obj	216f4a5205ee2442
+3512	4001	6677263838049431	qt6ci-7-assign.exe	ba12382de207ea05
+37	375	6677264591011999	qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+37	375	6677264591011999	qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+37	375	6677264591011999	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+37	375	6677264591011999	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+388	3836	6677264625670982	CMakeFiles/qt6ci-7-assign.dir/main.cpp.obj	216f4a5205ee2442
+3838	4288	6677264630137258	qt6ci-7-assign.exe	ba12382de207ea05
+8	416	6677265620334992	qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+8	416	6677265620334992	qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+8	416	6677265620334992	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+8	416	6677265620334992	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+429	3655	6677265652780662	CMakeFiles/qt6ci-7-assign.dir/main.cpp.obj	216f4a5205ee2442
+3657	4092	6677265657125998	qt6ci-7-assign.exe	ba12382de207ea05
+33	498	6677269358962494	qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+33	498	6677269358962494	qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+33	498	6677269358962494	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/timestamp	bb73ccffb102c1c3
+33	498	6677269358962494	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-assign_autogen/mocs_compilation.cpp	bb73ccffb102c1c3
+507	4820	6677269402219331	CMakeFiles/qt6ci-7-assign.dir/main.cpp.obj	216f4a5205ee2442
+4821	5452	6677269408268529	qt6ci-7-assign.exe	ba12382de207ea05

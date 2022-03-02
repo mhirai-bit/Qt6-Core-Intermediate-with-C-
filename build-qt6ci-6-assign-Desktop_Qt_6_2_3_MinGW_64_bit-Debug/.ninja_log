@@ -1,0 +1,15 @@
+# ninja log v5
+3	3064	6677130023153390	qt6ci-6-assign_autogen/timestamp	778c027165f68e15
+3	3064	6677130023153390	qt6ci-6-assign_autogen/mocs_compilation.cpp	778c027165f68e15
+3	3064	6677130023153390	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-6-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-6-assign_autogen/timestamp	778c027165f68e15
+3	3064	6677130023153390	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-6-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-6-assign_autogen/mocs_compilation.cpp	778c027165f68e15
+3075	8662	6677130084512410	CMakeFiles/qt6ci-6-assign.dir/main.cpp.obj	6aa1c9429c15e259
+3080	8774	6677130085604364	CMakeFiles/qt6ci-6-assign.dir/person.cpp.obj	b4bed822e5f21a91
+3067	9176	6677130089632411	CMakeFiles/qt6ci-6-assign.dir/qt6ci-6-assign_autogen/mocs_compilation.cpp.obj	708c8634ed5937f5
+9178	9964	6677130097431625	qt6ci-6-assign.exe	ac19682e151bd220
+25	595	6677130379180509	qt6ci-6-assign_autogen/timestamp	778c027165f68e15
+25	595	6677130379180509	qt6ci-6-assign_autogen/mocs_compilation.cpp	778c027165f68e15
+25	595	6677130379180509	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-6-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-6-assign_autogen/timestamp	778c027165f68e15
+25	595	6677130379180509	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-6-assign-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-6-assign_autogen/mocs_compilation.cpp	778c027165f68e15
+617	3752	6677130410799840	CMakeFiles/qt6ci-6-assign.dir/main.cpp.obj	6aa1c9429c15e259
+3755	4281	6677130415986234	qt6ci-6-assign.exe	ac19682e151bd220

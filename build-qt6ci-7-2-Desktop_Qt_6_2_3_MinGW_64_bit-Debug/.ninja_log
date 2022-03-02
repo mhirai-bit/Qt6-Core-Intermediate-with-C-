@@ -1,0 +1,26 @@
+# ninja log v5
+1	1308	6677197430775119	qt6ci-7-2_autogen/timestamp	20f31ef04beada81
+1	1308	6677197430775119	qt6ci-7-2_autogen/mocs_compilation.cpp	20f31ef04beada81
+1	1308	6677197430775119	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-2-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-2_autogen/timestamp	20f31ef04beada81
+1	1308	6677197430775119	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-2-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-2_autogen/mocs_compilation.cpp	20f31ef04beada81
+1319	2329	6677197443584508	CMakeFiles/qt6ci-7-2.dir/qt6ci-7-2_autogen/mocs_compilation.cpp.obj	6650f38dcef5cf6e
+1338	5951	6677197479928666	CMakeFiles/qt6ci-7-2.dir/main.cpp.obj	701f1b61a94a927b
+5956	7141	6677197491637852	qt6ci-7-2.exe	5d461744db1d5ffb
+16	387	6677198117938364	qt6ci-7-2_autogen/timestamp	20f31ef04beada81
+16	387	6677198117938364	qt6ci-7-2_autogen/mocs_compilation.cpp	20f31ef04beada81
+16	387	6677198117938364	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-2-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-2_autogen/timestamp	20f31ef04beada81
+16	387	6677198117938364	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-2-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-2_autogen/mocs_compilation.cpp	20f31ef04beada81
+404	3789	6677198151833750	CMakeFiles/qt6ci-7-2.dir/main.cpp.obj	701f1b61a94a927b
+3791	4263	6677198156746163	qt6ci-7-2.exe	5d461744db1d5ffb
+8	329	6677198991330568	qt6ci-7-2_autogen/timestamp	20f31ef04beada81
+8	329	6677198991330568	qt6ci-7-2_autogen/mocs_compilation.cpp	20f31ef04beada81
+8	329	6677198991330568	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-2-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-2_autogen/timestamp	20f31ef04beada81
+8	329	6677198991330568	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-2-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-2_autogen/mocs_compilation.cpp	20f31ef04beada81
+338	4267	6677199030470707	CMakeFiles/qt6ci-7-2.dir/main.cpp.obj	701f1b61a94a927b
+4272	5075	6677199038804211	qt6ci-7-2.exe	5d461744db1d5ffb
+21	347	6677199379677367	qt6ci-7-2_autogen/timestamp	20f31ef04beada81
+21	347	6677199379677367	qt6ci-7-2_autogen/mocs_compilation.cpp	20f31ef04beada81
+21	347	6677199379677367	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-2-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-2_autogen/timestamp	20f31ef04beada81
+21	347	6677199379677367	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-7-2-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-7-2_autogen/mocs_compilation.cpp	20f31ef04beada81
+371	4038	6677199416554303	CMakeFiles/qt6ci-7-2.dir/main.cpp.obj	701f1b61a94a927b
+4039	4554	6677199421536283	qt6ci-7-2.exe	5d461744db1d5ffb

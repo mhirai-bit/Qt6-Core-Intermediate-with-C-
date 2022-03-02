@@ -1,0 +1,8 @@
+# ninja log v5
+2	606	6677338903596127	qt6ci-8-13_autogen/timestamp	7581a93215467252
+2	606	6677338903596127	qt6ci-8-13_autogen/mocs_compilation.cpp	7581a93215467252
+2	606	6677338903596127	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-8-13-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-8-13_autogen/timestamp	7581a93215467252
+2	606	6677338903596127	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-8-13-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-8-13_autogen/mocs_compilation.cpp	7581a93215467252
+607	857	6677338907622460	CMakeFiles/qt6ci-8-13.dir/qt6ci-8-13_autogen/mocs_compilation.cpp.obj	a8009dc55c3b64d3
+612	3744	6677338936349083	CMakeFiles/qt6ci-8-13.dir/main.cpp.obj	a0e5e41b87d48487
+3754	4292	6677338941721961	qt6ci-8-13.exe	6c1974104055c8be

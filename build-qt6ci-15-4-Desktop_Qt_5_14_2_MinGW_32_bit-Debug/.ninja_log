@@ -1,0 +1,20 @@
+# ninja log v5
+1	252	0	CMakeFiles/qt6ci-15-4_autogen	9e661ca6778d82b4
+1	252	0	qt6ci-15-4_autogen/mocs_compilation.cpp	9e661ca6778d82b4
+1	252	0	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-15-4-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/CMakeFiles/qt6ci-15-4_autogen	9e661ca6778d82b4
+1	252	0	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-15-4-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/qt6ci-15-4_autogen/mocs_compilation.cpp	9e661ca6778d82b4
+254	628	6678456518051637	CMakeFiles/qt6ci-15-4.dir/qt6ci-15-4_autogen/mocs_compilation.cpp.obj	e5a6ef237fbe3dae
+259	2182	6678456533762741	CMakeFiles/qt6ci-15-4.dir/main.cpp.obj	d1101776ccaa894e
+2186	2560	6678456537328597	qt6ci-15-4.exe	b67ec6d95dba6e4e
+5	100	0	CMakeFiles/qt6ci-15-4_autogen	9e661ca6778d82b4
+5	100	0	qt6ci-15-4_autogen/mocs_compilation.cpp	9e661ca6778d82b4
+5	100	0	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-15-4-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/CMakeFiles/qt6ci-15-4_autogen	9e661ca6778d82b4
+5	100	0	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-15-4-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/qt6ci-15-4_autogen/mocs_compilation.cpp	9e661ca6778d82b4
+108	1586	6678456710586772	CMakeFiles/qt6ci-15-4.dir/main.cpp.obj	d1101776ccaa894e
+1587	1944	6678456714097419	qt6ci-15-4.exe	b67ec6d95dba6e4e
+32	232	0	CMakeFiles/qt6ci-15-4_autogen	9e661ca6778d82b4
+32	232	0	qt6ci-15-4_autogen/mocs_compilation.cpp	9e661ca6778d82b4
+32	232	0	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-15-4-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/CMakeFiles/qt6ci-15-4_autogen	9e661ca6778d82b4
+32	232	0	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-15-4-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/qt6ci-15-4_autogen/mocs_compilation.cpp	9e661ca6778d82b4
+236	3624	6678456883649650	CMakeFiles/qt6ci-15-4.dir/main.cpp.obj	d1101776ccaa894e
+3626	3900	6678456886322536	qt6ci-15-4.exe	b67ec6d95dba6e4e

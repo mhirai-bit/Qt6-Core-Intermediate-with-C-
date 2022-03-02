@@ -1,0 +1,14 @@
+# ninja log v5
+13	591	6676675627943114	qt6ci-5-3_autogen/timestamp	920f10ef82f9ae8c
+13	591	6676675627943114	qt6ci-5-3_autogen/mocs_compilation.cpp	920f10ef82f9ae8c
+13	591	6676675627943114	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-3-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-3_autogen/timestamp	920f10ef82f9ae8c
+13	591	6676675627943114	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-3-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-3_autogen/mocs_compilation.cpp	920f10ef82f9ae8c
+593	811	6676675631952706	CMakeFiles/qt6ci-5-3.dir/qt6ci-5-3_autogen/mocs_compilation.cpp.obj	2d585de700482c2a
+599	4673	6676675670758819	CMakeFiles/qt6ci-5-3.dir/main.cpp.obj	b5d629c732406423
+4678	5257	6676675676438734	qt6ci-5-3.exe	1ddc59d2f9fa907e
+17	405	6676676414896790	qt6ci-5-3_autogen/timestamp	920f10ef82f9ae8c
+17	405	6676676414896790	qt6ci-5-3_autogen/mocs_compilation.cpp	920f10ef82f9ae8c
+17	405	6676676414896790	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-3-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-3_autogen/timestamp	920f10ef82f9ae8c
+17	405	6676676414896790	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-3-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-3_autogen/mocs_compilation.cpp	920f10ef82f9ae8c
+418	4004	6676676450940755	CMakeFiles/qt6ci-5-3.dir/main.cpp.obj	b5d629c732406423
+4010	4578	6676676456496542	qt6ci-5-3.exe	1ddc59d2f9fa907e

@@ -1,0 +1,9 @@
+# ninja log v5
+1	959	0	CMakeFiles/qt6ci-15-3_autogen	49325bcc096040cb
+1	959	0	qt6ci-15-3_autogen/mocs_compilation.cpp	49325bcc096040cb
+1	959	0	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-15-3-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/CMakeFiles/qt6ci-15-3_autogen	49325bcc096040cb
+1	959	0	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-15-3-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/qt6ci-15-3_autogen/mocs_compilation.cpp	49325bcc096040cb
+962	2986	6678453480703013	CMakeFiles/qt6ci-15-3.dir/main.cpp.obj	895cdae448a35460
+974	2996	6678453480772827	CMakeFiles/qt6ci-15-3.dir/qt6ci-15-3_autogen/mocs_compilation.cpp.obj	57f232daf8ed2cd7
+987	3086	6678453481700344	CMakeFiles/qt6ci-15-3.dir/watcher.cpp.obj	cb3e6ac1fe38fae8
+3087	3488	6678453485666471	qt6ci-15-3.exe	ca633cb39b43672

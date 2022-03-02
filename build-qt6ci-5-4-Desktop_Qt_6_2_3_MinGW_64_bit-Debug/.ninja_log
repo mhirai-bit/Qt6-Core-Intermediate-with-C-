@@ -1,0 +1,54 @@
+# ninja log v5
+10	1522	6676678758393719	qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+10	1522	6676678758393719	qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+10	1522	6676678758393719	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+10	1522	6676678758393719	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+1526	2086	6676678769416059	CMakeFiles/qt6ci-5-4.dir/qt6ci-5-4_autogen/mocs_compilation.cpp.obj	9df6a620be21cf63
+1543	12699	6676678875688899	CMakeFiles/qt6ci-5-4.dir/main.cpp.obj	803db298cf267626
+12720	13622	6676678884864403	qt6ci-5-4.exe	cf36e3a70a00cfdc
+82	1053	6676679424197489	qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+82	1053	6676679424197489	qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+82	1053	6676679424197489	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+82	1053	6676679424197489	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+1086	9335	6676679507067838	CMakeFiles/qt6ci-5-4.dir/main.cpp.obj	803db298cf267626
+9338	10079	6676679514548233	qt6ci-5-4.exe	cf36e3a70a00cfdc
+109	1122	6676680152082209	qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+109	1122	6676680152082209	qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+109	1122	6676680152082209	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+109	1122	6676680152082209	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+1158	13611	6676680277133974	CMakeFiles/qt6ci-5-4.dir/main.cpp.obj	803db298cf267626
+13612	14534	6676680286125075	qt6ci-5-4.exe	cf36e3a70a00cfdc
+33	476	6676681207152061	qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+33	476	6676681207152061	qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+33	476	6676681207152061	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+33	476	6676681207152061	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+487	7980	6676681282038319	CMakeFiles/qt6ci-5-4.dir/main.cpp.obj	803db298cf267626
+7983	9247	6676681294733756	qt6ci-5-4.exe	cf36e3a70a00cfdc
+29	460	6676681750109840	qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+29	460	6676681750109840	qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+29	460	6676681750109840	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+29	460	6676681750109840	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+38	629	6676681959669063	qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+38	629	6676681959669063	qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+38	629	6676681959669063	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+38	629	6676681959669063	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+643	5570	6676682009098701	CMakeFiles/qt6ci-5-4.dir/main.cpp.obj	803db298cf267626
+5571	6380	6676682017198278	qt6ci-5-4.exe	cf36e3a70a00cfdc
+84	1020	6676682430612405	qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+84	1020	6676682430612405	qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+84	1020	6676682430612405	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+84	1020	6676682430612405	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+1050	6399	6676682484398433	CMakeFiles/qt6ci-5-4.dir/main.cpp.obj	803db298cf267626
+6401	7169	6676682492104406	qt6ci-5-4.exe	cf36e3a70a00cfdc
+35	407	6676682842196332	qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+35	407	6676682842196332	qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+35	407	6676682842196332	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+35	407	6676682842196332	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+417	5076	6676682888975036	CMakeFiles/qt6ci-5-4.dir/main.cpp.obj	803db298cf267626
+5077	5894	6676682896964081	qt6ci-5-4.exe	cf36e3a70a00cfdc
+13	382	6676683008511924	qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+13	382	6676683008511924	qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+13	382	6676683008511924	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/timestamp	f623911ecc2a0908
+13	382	6676683008511924	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Intermediate with C++/build-qt6ci-5-4-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6ci-5-4_autogen/mocs_compilation.cpp	f623911ecc2a0908
+394	5050	6676683055151298	CMakeFiles/qt6ci-5-4.dir/main.cpp.obj	803db298cf267626
+5051	5836	6676683062975418	qt6ci-5-4.exe	cf36e3a70a00cfdc
